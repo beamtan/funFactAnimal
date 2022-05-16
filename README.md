@@ -1,2 +1,2 @@
 # funFactAnimal
-Fun fact of animal you don't know
+Fun fact of animals you don't know
